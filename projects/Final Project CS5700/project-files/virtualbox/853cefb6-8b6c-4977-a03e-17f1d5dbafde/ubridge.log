@@ -1,0 +1,6 @@
+uBridge version 0.9.16 running with WinPcap version 4.1.3 (packet.dll version 4.1.0.2980), based on libpcap version 1.0 branch 1_0_rel0b (20091008)
+Hypervisor TCP control server started (IP localhost port 51628).
+UDP tunnel connecting from local port 10025 to IPv4 addresss 127.0.0.1 on port 10024
+UDP tunnel connecting from local port 10007 to IPv4 addresss 192.168.56.101 on port 20073
+Source NIO listener thread for VBOX-853cefb6-8b6c-4977-a03e-17f1d5dbafde-0 has started
+Destination NIO listener thread for VBOX-853cefb6-8b6c-4977-a03e-17f1d5dbafde-0 has started
